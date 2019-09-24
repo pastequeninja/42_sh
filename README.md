@@ -1,4 +1,4 @@
-# 42sh 
+# 42sh - Shell
 
 Bonus envisagés ou mis en place :
 
@@ -6,3 +6,5 @@ Bonus envisagés ou mis en place :
 - [x] Alias en global grâce au dossier ~/.alias
 
 ***Le shell fonctionne extactement comme le TCSH*** ✅ 
+
+# Obtention grade A 💁🏻
