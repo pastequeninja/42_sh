@@ -5,6 +5,6 @@ Bonus envisagés ou mis en place :
 - [ ] Auto-complétion
 - [x] Alias en global grâce au dossier ~/.alias
 
-***Le shell fonctionne extactement comme le TCSH*** ✅ 
+***Le shell possède toutes les fonctionnalités de TCSH*** ✅ 
 
 # Obtention grade A 💁🏻
